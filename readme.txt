@@ -1,0 +1,1 @@
+Hello World! This is an example for my Github challenge on FreeCodeCamp.com. 
